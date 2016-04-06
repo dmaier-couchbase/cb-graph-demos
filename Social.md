@@ -74,7 +74,7 @@ Other connections need basic text understanding and rules in order to derive the
 
 * We will write a simple import tool (Java) 
 * It will parse the XML (by using a ready to use parsing library)
-* The id of the vertex will be the actual Wiki link Id, e.g. [[Maggie Simpson]] translates to [[Maggie_Simpson]]
+* The id of the vertex will be the actual Wiki link Id, e.g. [[Maggie Simpson]] translates to 'Maggie_Simpson'
   * Have to find out how this translation is done from the title
 * In the first step we create all the vertices as skeletons in CBGraph
   * id
