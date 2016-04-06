@@ -62,6 +62,9 @@ Other connections need basic text understanding and rules in order to derive the
 * Family relationships from the text
   * father of [[AnotherCharacter]]
   * mother of [[AnotherCharacter]]
+  * daughter of [[AnotherCharacter]]
+  * son of [[AnotherCharacter]]
+  * child of [[AnotherCharacter]]
   * wife of [[AnotherCharacter]]
   * husband of [[AnotherCharacter]]
   * brother of [[AnotherCharacter]]
