@@ -1,6 +1,6 @@
 # Simpsons as a Social Network
 
-The Simpsons universe has a lot of fiktive characters. So the idea is to extract them from Wikisimpsons.com and create a social Graph of them.
+The Simpsons universe has a lot of fictitious characters. So the idea is to extract them from Wikisimpsons.com and create a social Graph of them.
 
 ## Categories
 
